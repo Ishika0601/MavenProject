@@ -12,7 +12,7 @@ public class ATMDemo {
 		/*Account ob1=new Account(100,"Ram",50000.00);
 		Account ob2=new Account(101,"Sham",20000.00);
 		*/
-
+		System.out.println("");
 
 
 		TransactionService trservice=new TransactionServiceImpl();
